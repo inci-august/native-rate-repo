@@ -4,6 +4,7 @@ const theme = {
     bgSecondary: '#e1e4e8',
     textPrimary: '#1f2325',
     textSecondary: '#5d5c63',
+    border: '#b8b8b8',
     light: '#ffffff',
     primary: '#0366d6',
   },
