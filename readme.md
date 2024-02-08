@@ -7,3 +7,4 @@
   - [x] 10.4: the app bar
   - [x] 10.5: polished reviewed repositories list
   - [x] 10.6: the sign-in view
+  - [x] 10.7: scrollable app bar

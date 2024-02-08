@@ -22,7 +22,7 @@ const theme = {
   spacing: {
     extraSmall: 4,
     small: 8,
-    medium: 14,
+    medium: 16,
     large: 20,
   },
 }
