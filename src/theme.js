@@ -7,6 +7,7 @@ const theme = {
     border: '#b8b8b8',
     light: '#ffffff',
     primary: '#0366d6',
+    error: '#d73a4a',
   },
   fontSizes: {
     body: 16,
