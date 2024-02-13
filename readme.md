@@ -11,3 +11,4 @@
   - [x] 10.8: the sign-in form
   - [x] 10.9: validating the sign-in form
   - [x] 10.10: a platform-specific font
+  - [x] 10.11: fetching repositories with Apollo Client
