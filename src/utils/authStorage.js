@@ -11,12 +11,12 @@ class AuthStorage {
     return token ? token : null
   }
 
-  setAccessToken(accessToken) {
-    return AsyncStorage.setItem(`${this.namespace}:token`, accessToken)
+  async setAccessToken(accessToken) {
+    await AsyncStorage.setItem(`${this.namespace}:token`, accessToken)
   }
 
-  removeAccessToken() {
-    return AsyncStorage.removeItem(`${this.namespace}:token`)
+  async removeAccessToken() {
+    await AsyncStorage.removeItem(`${this.namespace}:token`)
   }
 }
 

@@ -15,3 +15,4 @@
   - [x] 10.12: environment variables
   - [x] 10.13: the sign in form mutation
   - [x] 10.14: storing the access token, step1
+  - [x] 10.15: storing the access token, step2

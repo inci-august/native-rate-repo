@@ -62,7 +62,6 @@ const RepositoryItem = ({ item }) => (
         </View>
       </View>
     </View>
-
     <View style={styles.info}>
       <InfoDisplay title="Stars" value={item.stargazersCount} />
       <InfoDisplay title="Forks" value={item.forksCount} />

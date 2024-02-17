@@ -6,7 +6,6 @@ const useRepositories = () => {
     fetchPolicy: 'cache-and-network',
   })
 
-  console.log('data', data)
   return { repositories: data?.repositories ?? [], error, loading }
 }
 
