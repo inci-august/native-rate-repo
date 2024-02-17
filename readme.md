@@ -16,3 +16,4 @@
   - [x] 10.13: the sign in form mutation
   - [x] 10.14: storing the access token, step1
   - [x] 10.15: storing the access token, step2
+  - [x] 10.16: sign-out
