@@ -17,3 +17,4 @@
   - [x] 10.14: storing the access token, step1
   - [x] 10.15: storing the access token, step2
   - [x] 10.16: sign-out
+  - [x] 10.17: testing the reviewed repositories list

@@ -28,7 +28,7 @@ const AppBar = () => {
         <Link style={styles.link} to="/">
           <AppBarTab text="Repositories" />
         </Link>
-        {data.me?.username ? (
+        {data?.me?.username ? (
           <Pressable onPress={signOut}>
             <AppBarTab text="Sign out" />
           </Pressable>
